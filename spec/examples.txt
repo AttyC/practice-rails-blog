@@ -1,0 +1,29 @@
+example_id                                             | status  | run_time        |
+------------------------------------------------------ | ------- | --------------- |
+./spec/controllers/widgets_controller_spec.rb[1:1:1]   | pending | 0.00139 seconds |
+./spec/controllers/widgets_controller_spec.rb[1:2:1]   | pending | 0.0011 seconds  |
+./spec/controllers/widgets_controller_spec.rb[1:3:1]   | passed  | 0.01563 seconds |
+./spec/controllers/widgets_controller_spec.rb[1:4:1]   | pending | 0.00136 seconds |
+./spec/controllers/widgets_controller_spec.rb[1:5:1:1] | pending | 0.00513 seconds |
+./spec/controllers/widgets_controller_spec.rb[1:5:1:2] | pending | 0.0013 seconds  |
+./spec/controllers/widgets_controller_spec.rb[1:5:2:1] | pending | 0.00118 seconds |
+./spec/controllers/widgets_controller_spec.rb[1:6:1:1] | pending | 0.00096 seconds |
+./spec/controllers/widgets_controller_spec.rb[1:6:1:2] | pending | 0.00104 seconds |
+./spec/controllers/widgets_controller_spec.rb[1:6:2:1] | pending | 0.0022 seconds  |
+./spec/controllers/widgets_controller_spec.rb[1:7:1]   | pending | 0.00111 seconds |
+./spec/controllers/widgets_controller_spec.rb[1:7:2]   | pending | 0.00097 seconds |
+./spec/helpers/widgets_helper_spec.rb[1:1]             | pending | 0.00001 seconds |
+./spec/models/widget_spec.rb[1:1]                      | pending | 0.00001 seconds |
+./spec/requests/widgets_spec.rb[1:1:1]                 | passed  | 0.5293 seconds  |
+./spec/routing/widgets_routing_spec.rb[1:1:1]          | passed  | 0.00105 seconds |
+./spec/routing/widgets_routing_spec.rb[1:1:2]          | passed  | 0.00155 seconds |
+./spec/routing/widgets_routing_spec.rb[1:1:3]          | passed  | 0.00108 seconds |
+./spec/routing/widgets_routing_spec.rb[1:1:4]          | passed  | 0.00389 seconds |
+./spec/routing/widgets_routing_spec.rb[1:1:5]          | passed  | 0.00138 seconds |
+./spec/routing/widgets_routing_spec.rb[1:1:6]          | passed  | 0.0011 seconds  |
+./spec/routing/widgets_routing_spec.rb[1:1:7]          | passed  | 0.00127 seconds |
+./spec/routing/widgets_routing_spec.rb[1:1:8]          | passed  | 0.00111 seconds |
+./spec/views/widgets/edit.html.erb_spec.rb[1:1]        | passed  | 0.02773 seconds |
+./spec/views/widgets/index.html.erb_spec.rb[1:1]       | passed  | 0.02674 seconds |
+./spec/views/widgets/new.html.erb_spec.rb[1:1]         | passed  | 0.08472 seconds |
+./spec/views/widgets/show.html.erb_spec.rb[1:1]        | passed  | 0.05033 seconds |
